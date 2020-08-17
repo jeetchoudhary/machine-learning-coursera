@@ -1,0 +1,6 @@
+[submodule "machine-learning-coursera-1"]
+	path = machine-learning-coursera-1
+	url = https://github.com/Borye/machine-learning-coursera-1.git
+[submodule "coursera-machine-learning"]
+	path = coursera-machine-learning
+	url = https://github.com/vugsus/coursera-machine-learning.git
